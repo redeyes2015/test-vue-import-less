@@ -1,0 +1,21 @@
+.a {
+  --description: 'Import from script section';
+}
+
+
+.b[data-v-1f6b50f6] {
+  --description: 'Import as external style, with scoped';
+}
+
+
+.c {
+  --description: 'Import as external styles, without scoped';
+}
+
+
+.d[data-v-1f6b50f6] {
+  --description: 'Import in scoped style tag';
+}
+
+
+/*# sourceMappingURL=app.a7fe198d.css.map*/
